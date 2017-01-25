@@ -1,0 +1,64 @@
+Équipier1:  Jonathan  O'Neill  
+Équipier2:  Antoine Daigneault-Demers  
+E1.1    
+a)
+  
+commit 415e1422122e69b04221c79cf1278e493d89ae3c
+Author: Jonathan O'Neill <joone@l4712-19.info.polymtl.ca>
+Date:   Wed Jan 25 16:33:01 2017 -0500
+
+    Premier commit
+
+commit 1b2a6fdc629acea28d1672e5941d0912728eeb7f
+Author: admin <gigl-technique@polymtl.ca>
+Date:   Tue Sep 11 15:51:58 2012 -0400
+
+    Commit administratif
+
+commit 70996bca0add50159f527a3495c0e19d965081c1
+Author: Luc Lalonde <Luc.Lalonde@polymtl.ca>
+Date:   Tue Sep 11 15:31:01 2012 -0400
+
+    Premier commit
+
+b) La commande $git log montre tous les commits qui ont ete effectue dans le depot local tandis que $git log -p ne montre que le commit le plus recent. De plus, la commange $git log -p affiche les fichiers qui ont ete ajoute lors du dernier commit. 
+
+E1.2    
+2-­a)  
+2-­b)  
+5-­a)  
+5-­b)  
+Copie  du  log:  Insérer  la  copie  de  log  demandée  ici  
+E1.3  
+3-­a)  
+3-­b)  
+6-­a)  
+6-­b)  
+Copie  du  log:    Insérer  la  copie  de  log  demandée  ici  
+E1.4  
+5-­a)  
+5-­b)  
+5-­c)  
+7)  BONUS  (si  vous  décidez  de  répondre  à  cette  question)  
+Copie  du  log:  
+E2.1  
+a)  
+all:
+	-main.o
+		-main.cpp
+		-HashMap.h
+	-HashMap.o
+		-HashMap.cpp
+		-HashMap.h
+	-SomeKeyHash.o  
+		-SomeKeyHash.cpp
+		-SomeKeyHash.h
+E2.2  
+Exécutez  «make»,  puis  insérez  la  sortie  des  deux  commandes  «touch  ...;;  make»  
+  
+Partie  2  :  
+2)  
+    a)  
+    b)  
+    c)  
+    d) 
